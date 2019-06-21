@@ -1,0 +1,12 @@
+.card-img {
+    object-fit: cover;
+}
+
+.card-thumbnail {
+    object-fit: contain;
+}
+.custom-range{
+    width: 50%;
+    height: 200%;
+}
+
