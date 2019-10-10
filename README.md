@@ -1,3 +1,6 @@
+# CMSC495 Project.
+deployed at heroku: https://beertapcmsc495.herokuapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
